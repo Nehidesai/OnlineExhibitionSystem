@@ -67,31 +67,6 @@ Apart from organizing their own events they also provide their platform for whil
 
 </div>
                                 
-                                    <!-- <img style="height: 200px;width:200px;border-radius: 100px;"
-                                        src="https://www.daiict.ac.in/sites/default/files/faculty_image/P-M-Jat.jpg"
-                                        alt="">
-                                        <p>
-                                            <br>
-                                            <a href="https://www.daiict.ac.in/faculty-details/264" style="text-decoration: none;"><b>Prof. P.M. Jat</b></a>
-                                            <br>
-                                            <span>Enterprise Computing (IT618)</span>
-                                            <br>
-                                            <a target="_blank" href="https://www.daiict.ac.in/faculty-details/264"><img style="height: 30px;" src="assets/images/speakers/prof.ico" alt=""></a>&nbsp;&nbsp;
-                                        </p>
-                                </div>
-                                <div class="col-sm">
-                                    <img style="height: 200px;width:200px;border-radius: 100px;"
-                                        src="https://www.daiict.ac.in/sites/default/files/faculty_image/Jayprakash-Lalchandani.jpg"
-                                        alt="">
-                                        <p>
-                                            <br>
-                                            <b>Prof. Jayprakash Lalchandani</b>  
-                                            <br>
-                                            <span>Design of Software Systems (IT619)</span>
-                                            <br>
-                                            <a target="_blank" href="https://www.researchgate.net/profile/Jayprakash-Lalchandani"><img style="height: 30px;" src="assets/images/speakers/prof.ico" alt=""></a>&nbsp;&nbsp;
-                                        </p>
-                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -129,12 +104,12 @@ Apart from organizing their own events they also provide their platform for whil
                                     
                                         <p>
                                             <br>
-                                            <b>Shreya Acharya</b>  
+                                            <b>ABC</b>  
                                             <br>
-                                            <span>Student ID : 2021 12127</span>
+                                            <span>ID : 001</span>
                                             <br>
-                                            <a target="_blank" href="https://www.linkedin.com/in/shreya-a-13833721b/"><i class="btn-lg fab fa-linkedin-in"></i></a>&nbsp;&nbsp;
-                                            <a target="_blank" href="https://github.com/ShreyaAcharya1"><i class="btn-lg fab fa-github"></i></a>
+                                            <a target="_blank" href="#"><i class="btn-lg fab fa-linkedin-in"></i></a>&nbsp;&nbsp;
+                                            <a target="_blank" href="#"><i class="btn-lg fab fa-github"></i></a>
                                         </p>
                                 </div>
                                 <div class="col-sm">
@@ -143,12 +118,12 @@ Apart from organizing their own events they also provide their platform for whil
                                         alt="">
                                         <p>
                                             <br>
-                                            <b>Meet Kalariya</b>  
+                                            <b>DEF</b>  
                                             <br>
-                                            <span>Student ID : 2021 12065</span>
+                                            <span>ID : 002</span>
                                             <br>
-                                            <a target="_blank" href="https://www.linkedin.com/in/meet-kalariya-8974b4193/"><i class="btn-lg fab fa-linkedin-in"></i></a>&nbsp;&nbsp;
-                                            <a target="_blank" href="https://github.com/202112065"><i class="btn-lg fab fa-github"></i></a>
+                                            <a target="_blank" href="#0"><i class="btn-lg fab fa-linkedin-in"></i></a>&nbsp;&nbsp;
+                                            <a target="_blank" href="#0"><i class="btn-lg fab fa-github"></i></a>
                                         </p>
                                 </div>
                                 <div class="col-sm">
@@ -157,9 +132,9 @@ Apart from organizing their own events they also provide their platform for whil
                                         alt="">
                                         <p>
                                             <br>
-                                            <b>Hardik kaneriya</b>  
+                                            <b>GHI</b>  
                                             <br>
-                                            <span>Student ID : 2021 12105</span>
+                                            <span>ID : 003</span>
                                             <br>
                                             <a target="_blank" href="#"><i class="btn-lg fab fa-linkedin-in"></i></a>&nbsp;&nbsp;
                                             <a target="_blank" href="#"><i class="btn-lg fab fa-github"></i></a>
@@ -174,9 +149,9 @@ Apart from organizing their own events they also provide their platform for whil
 
                                         <p>
                                             <br>
-                                            <b>Nehi Desai</b>  
+                                            <b>JKL</b>  
                                             <br>
-                                            <span>Student ID : 2021 12099</span>
+                                            <span>ID : 004</span>
                                             <br>
                                             <a target="_blank" href="#"><i class="btn-lg fab fa-linkedin-in"></i></a>&nbsp;&nbsp;
                                             <a target="_blank" href="#"><i class="btn-lg fab fa-github"></i></a>
@@ -189,11 +164,11 @@ Apart from organizing their own events they also provide their platform for whil
                                     
                                         <p>
                                             <br>
-                                            <b>Krina Vipani</b>  
+                                            <b>MNO</b>  
                                             <br>
-                                            <span>Student ID : 2021 12057</span>
+                                            <span>ID : 005</span>
                                             <br>
-                                            <a target="_blank" href="https://www.linkedin.com/in/krina-vipani-1276431b9/"><i class="btn-lg fab fa-linkedin-in"></i></a>&nbsp;&nbsp;
+                                            <a target="_blank" href="#"><i class="btn-lg fab fa-linkedin-in"></i></a>&nbsp;&nbsp;
                                             <a target="_blank" href="#"><i class="btn-lg fab fa-github"></i></a>
                                         </p>
                                 </div>
@@ -204,9 +179,9 @@ Apart from organizing their own events they also provide their platform for whil
                                     
                                         <p>
                                             <br>
-                                            <b>Mansi Jani</b>  
+                                            <b>PQR</b>  
                                             <br>
-                                            <span>Student ID : 2021 12120</span>
+                                            <span>ID : 006</span>
                                             <br>
                                             <a target="_blank" href="#"><i class="btn-lg fab fa-linkedin-in"></i></a>&nbsp;&nbsp;
                                             <a target="_blank" href="#"><i class="btn-lg fab fa-github"></i></a>
