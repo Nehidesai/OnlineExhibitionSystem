@@ -18,8 +18,8 @@ public class Services
 	 
         System.out.println("Start");
         
-        final String username  = "onlinejobportal2021@gmail.com";//Sender Email
-		final String password   = "ukcq itxv kgil nvbl";//Sender Password
+        final String username  = "<<Your_Mail>>";//Sender Email
+		final String password   = "<<Your_Password>>";//Sender Password
 		
 		System.out.println("1");
 		Properties props = new Properties();
