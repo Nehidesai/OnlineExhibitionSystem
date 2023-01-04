@@ -2,8 +2,8 @@ package payment;
 
 public class PaytmConstants {
 	
-	public final static String MID = "iKNhwW40172988775877";
-	public final static String MERCHANT_KEY = "GGDCTkYaggY4hXg&";
+	public final static String MID = "<<Merchant_ID>>";
+	public final static String MERCHANT_KEY = "<<Merchant_Key>>";
 
 	
 	public final static String INDUSTRY_TYPE_ID = "Retail";
